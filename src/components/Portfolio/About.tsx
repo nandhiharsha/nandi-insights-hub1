@@ -7,7 +7,6 @@ const About = () => {
         degree: "MSc in Data Science & Analytics",
   institution: "University of Hertfordshire",
   duration: "Sep-2023 to Sep-2025",
-  gpa: "3.76 GPA",
   icon: GraduationCap,
   details: [
     "Specialization in Machine Learning and Big Data Analytics",
