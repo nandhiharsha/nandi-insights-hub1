@@ -119,8 +119,8 @@ const Header = () => {
                 asChild
               >
                 <a 
-                  href="https://github.com/nandhiharsha/Resume/raw/cfa4beea0ea27d13ac8f6019acfacd41c0d8fd5a/Harshavardhan_nandi_resume_QA.pdf"
-                  download="Harshavardhan_Nandi_CV.pdf"
+                  href="Harshavardhan_nandi_resume_QA.pdf"
+                  download="Harshavardhan_nandi_resume_QA.pdf"
                 >
                   <Download className="w-4 h-4 mr-2" />
                   Download CV
